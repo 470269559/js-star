@@ -12,3 +12,4 @@ new Star({
         console.log('选择评分为：',number)
     }
 })
+ 
