@@ -1,3 +1,4 @@
+```
 new Star({
 	el:'#main',
 	number:5,//一共有几颗星
@@ -9,3 +10,4 @@ new Star({
 		console.log('选择评分为：',number)
 	}
 })
+```
